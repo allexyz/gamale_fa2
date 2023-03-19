@@ -1,0 +1,17 @@
+body{
+	font-family: cursive;
+}
+#instruct{
+	font-weight: bold;
+	font-size: 17px;
+}
+input{
+	width: 80px;
+}
+button{
+	margin: 20px 0;
+	width: 30px;
+}
+#results{
+	font-size: 20px;
+}
